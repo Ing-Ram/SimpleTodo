@@ -20,9 +20,6 @@ The following **optional** features are implemented:
 
 * [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -33,12 +30,12 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Describing some issues:
+I could tell that some of the software in the video may be a version or two behind the current android studio. 'FileUtils.readline' is no longer implemented this way (maybe in a Java update). On my windows 10 machine the these methods are called without the FileUtils- Minor. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Chad Ingram]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
